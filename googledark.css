@@ -410,6 +410,11 @@ color:#A2C93A !important;
     background-color:#222;
 }
 
+.minidiv .sfbg {
+     background-color:#222;
+    color: #BBB !important;
+}
+
 li,.sbtc,.sbl1{
     color: #bbb;
 }
